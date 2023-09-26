@@ -26,7 +26,7 @@ end
 
 function love.draw()
 love.graphics.printf(
-    'Hello Pong',0,
+    'Hello Faissal',0,
     WINDOW_HEIGHT/2 -340, --coordinat y
     WINDOW_WIDTH/2-400,-- coordinat x
     'left'
